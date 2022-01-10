@@ -1,15 +1,12 @@
-# =======================================================================================
+# ===========================================
 # Name        : Python Keylogger
 # Author      : Zaid Siddiqui
 # Version     : 1.0
 # Copyright   : (c) Reserved
 # Description : A simple Python Keylogger that has to be executed on the victim Computer
-# Usage       : This Keylogger MUST NOT be used for any unethical activity. The author
-#               will not be responsible in any case of this being used unethically.
-#               The Original author must always be credited.
-# WARNING:  :   This keylogger will be detected by windows. To understand how to run this
-#               Keylogger. Read the 'README.md' file
-# =======================================================================================
+# Usage       : This Keylogger MUST NOT be used for any unethical activity. The author will not be responsible in any case of this being used unethically. The Original author must always be credited.
+# WARNING:  :   This keylogger will be detected by windows. To understand how to run this Keylogger. Read the 'README.md' file
+# ===========================================
 
 This is a Simple Python Keylogger that mails you all the captured keys it captures after a specific time interval.
 
